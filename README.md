@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Zuri Zaday Noriega Herrera</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on **alumno cecytem**
+- 🔭 estudio en **cecytem tecamac**
 
-- 🌱 I’m currently learning **html**
+- mi numero es **5636654314**
 
-- 🤝 I’m looking for help with **programacion**
+- edad **16 años**
 
-- 💬 Ask me about **etiquetas html**
+- 🤝 especialidad **programacion**
 
-- 📫 How to reach me **zuryzadaynoriegaherrera@gmail.com**
+- hobbies [mirar peliculas,dormir](mirar peliculas,dormir)
+
+- 📝 turno [matutino](matutino)
+
+- 💬 me pueden encontrar en facebook **NH Zuri**
+
+- 📫 mi correo es **zuryzadaynoriegaherrera@gmail.com**
+
+- 📄 considero mi nivel de programacion del 1-10 [un 5](un 5)
 
 - ⚡ Fun fact **casi no me gusta programar**
 
@@ -18,4 +26,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
